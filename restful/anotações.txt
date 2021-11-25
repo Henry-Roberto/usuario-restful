@@ -1,0 +1,14 @@
+EXPRESS para trabalhar com rotas http
+npm install express --save //--save inseri no package.json a dependencia 
+
+nodemon - serviço que fica monitorando o arquivo e a cada edição do arquivo, ele sobe o servidor automaticamente 
+npm install nodemon -g
+
+
+npm install consign --save
+
+npm install body-parser --save // interpreta o POST 
+
+npm install nedb --save //banco de dados 
+
+npm install express-validator@5.1.2 --save //modulo para validação de dados

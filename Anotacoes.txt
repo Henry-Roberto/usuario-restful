@@ -1,0 +1,22 @@
+//executar na pasta principal
+npm install express-generator -g
+
+//executar na pasta principal
+express --ejs 'nome da aplicação'
+
+//executar na pasta criada pelo express 'nome da aplicação'
+npm install 
+
+
+npm start // para iniciar o server 
+
+//executar na pasta 'nome da aplicação'
+npm install restify-clients --save //framework para consumir Api
+
+
+ajax
+Assincrono JavaScritp And Xml
+
+xhr
+xml http request
+
